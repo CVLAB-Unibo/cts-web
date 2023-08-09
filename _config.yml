@@ -7,13 +7,13 @@ url: 'https://cvlab-unibo.github.io'
 baseurl:
 
 # Title of the Site
-title: Learning Depth Estimation for Transparent and Mirror Surfaces
+title: Boosting Multi-Modal Unsupervised Domain Adaptation for LiDAR Semantic Segmentation by Self-Supervised Depth Completion
 # Description of the Site
-description: Accepted at ICCV2023
+description: Accepted at IEEE Access
 # URL of Image of the Site
 site-image:
 # Keywords of the Site
-site-keywords: Deep Learning, Depth, Disparity, Segmentation, Monocular, Mono, Stereo, Transparent, Glass, Specular, Reflective, non-Lambertian
+site-keywords: Deep Learning, Depth, Disparity, Segmentation, Domain Adaptation, Lidar
 # URL for the Image of custom Favicon
 favicon-url:
 
@@ -27,7 +27,7 @@ facebook_username:
 twitter_username:
 instagram_username:
 linkedin_username:
-github_username:  arcanoXIII/learning_depth_estimation_for_transparent_and_mirror_surfaces
+github_username:  pierlui92/cts-web
 youtube_channel_id: 
 reddit_username:
 behance_username:
@@ -39,10 +39,10 @@ site_name: "https://www.vision.deis.unibo.it/"
 google-analytics:
 
 # Disqus
-disqus-shortname: Depth4ToM
+disqus-shortname: CtS
 
 # Name of the Author
-author-name: Alex Costanzino
+author-name: Pierluigi Zama Ramirez
 # URL for the Image of the Author
 author-image:
 # 60 Words About the Author
